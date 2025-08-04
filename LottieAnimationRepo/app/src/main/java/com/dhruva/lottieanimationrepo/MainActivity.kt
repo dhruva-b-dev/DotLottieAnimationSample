@@ -160,7 +160,6 @@ fun DotLottieMultipleAnimationsPreview(modifier: Modifier = Modifier) {
     )  {
         DotLottieAnimation(
             source = DotLottieSource.Asset("smiley_pack.lottie"),
-            //source = DotLottieSource.Url("https://lottie.host/294b684d-d6b4-4116-ab35-85ef566d4379/VkGHcqcMUI.lottie"),
             autoplay = true,
             loop = true,
             controller = dotLottieController
@@ -195,6 +194,6 @@ fun DotLottieMultipleAnimationsPreview(modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     LottieAnimationRepoTheme {
-        //DotLottiePlayerExample()
+        DotLottieSpeedPreview()
     }
 }
