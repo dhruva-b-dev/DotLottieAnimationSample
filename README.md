@@ -18,7 +18,7 @@ This is a simple Jetpack Compose sample project demonstrating how to use the [do
 
 ## 📸 Demo
 
-For demo you can refer the medium article. 
+For demo you can refer the [dotLottie with Jetpack Compose](https://medium.com/@dhruva.bhatt.dev/dotlottie-with-jetpack-compose-83e7c6c3756e) 
 
 ---
 
@@ -59,7 +59,7 @@ This demo uses the following hosted `.lottie` file:
 
 If you found this helpful or have feedback, feel free to connect:  
 📧 dhruva.bhatt.dev@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhruva-bhatt-dev/)
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruvabhatt2004/)
 
 ---
 
