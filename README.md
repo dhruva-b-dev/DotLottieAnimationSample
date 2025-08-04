@@ -42,8 +42,7 @@ For demo you can refer the [dotLottie with Jetpack Compose](https://medium.com/@
 
 ## 📂 Sample Animation
 
-This demo uses the following hosted `.lottie` file:  
-🔗 [https://lottie.host/294b684d-d6b4-4116-ab35-85ef566d4379/VkGHcqcMUI.lottie](https://lottie.host/294b684d-d6b4-4116-ab35-85ef566d4379/VkGHcqcMUI.lottie)
+This demo uses the `.lottie`/`.json` files, it can be found under the assets folder. 
 
 ---
 
